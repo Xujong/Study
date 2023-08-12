@@ -1,37 +1,39 @@
 # Study
 
 #### 介绍
-一个用于存放学习笔记的仓库
+一个用于存放学习笔记的仓库，其中包含涉猎各学科的笔记。笔记可以转载，但应注明出处。
 
-#### 软件架构
-软件架构说明
+#### 目录架构
+study
+    ├─物理学
+    │  └─计算物理
+    │      └─PyPhysics
+    └─计算机
+        ├─编程语言
+        │  ├─matlab basic_
+        │  │  └─matlab速查文件
+        │  └─python学习
+        └─计算机二级
 
+#### 内容介绍
 
-#### 安装教程
+一、物理学
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.计算物理：计算物理相关学习的笔记
 
-#### 使用说明
+——PyPhysics：一个关于Python物理学计算的Jetbrains Dataspell项目，包括：
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+​	Study下的PyPhisics：《Python物理学高效计算》的笔记。假定读者有足够的Python和计算机基础，并仅仅需要满足完成工作的目的。
 
-#### 参与贡献
+二、计算机
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+1.编程语言
 
+——matlab basic：MATLAB的基础。
 
-#### 特技
+​	matlab速查文件：通过Markdown大纲功能进行按类的MATLAB函数查询。
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+——python学习：Python的学习笔记。
+
+2.计算机二级：Python计算机二级的学习笔记。
+
